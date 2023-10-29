@@ -19,3 +19,9 @@ $("h1").removeClass("big-title margin-50");
 $("button").text("Don't Click Me");
 $("button").html("<em>Hey</em>");
 ```
+## Attribute
+```
+$("img").attr("src");
+$("a").attr("href", "https://www.yahoo.com");
+$("h1").attr("class");
+```
