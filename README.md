@@ -18,7 +18,7 @@ $("h1").hasClass("margin-50");
 $("h1").hasClass("big-title margin-50");
 $("h1").removeClass("big-title margin-50");
 ```
-## Text
+## Text/HTML
 ```
 $("button").text("Don't Click Me");
 $("button").html("<em>Hey</em>");
