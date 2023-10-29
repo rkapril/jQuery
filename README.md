@@ -63,3 +63,11 @@ $("h1").before("<button>Before</button>");
 ```
 $("h1").after("<button>After</button>");
 ```
+## Prepend
+```
+$("h1").prepend("<button>Prepend</button>"); // Inside the element (Before the text)
+```
+## Append
+```
+$("h1").append("<button>Append</button>"); // Inside the element (After the text)
+```
