@@ -34,4 +34,8 @@ $("h1").attr("class");
 $("h1").click(function () {
     $("h1").css("color", "purple");
   });
+
+$("button").click(function () {
+    $("h1").css("color", "purple");
+  });
 ```
