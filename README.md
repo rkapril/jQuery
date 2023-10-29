@@ -67,6 +67,10 @@ $("button").on("click", function () {
     $("h1").fadeToggle();
   });
 
+$("button").on("click", function () {
+    $("h1").slideToggle();
+  });
+
 $("input").keypress(function (event) {
     console.log(event.key);
   });
