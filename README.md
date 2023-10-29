@@ -29,3 +29,9 @@ $("img").attr("src");
 $("a").attr("href", "https://www.yahoo.com");
 $("h1").attr("class");
 ```
+## Event Listener
+```
+$("h1").click(function () {
+    $("h1").css("color", "purple");
+  });
+```
