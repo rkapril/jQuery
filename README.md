@@ -71,3 +71,7 @@ $("h1").prepend("<button>Prepend</button>"); // Inside the element (Before the t
 ```
 $("h1").append("<button>Append</button>"); // Inside the element (After the text)
 ```
+## Remove
+```
+$("button").remove();
+```
