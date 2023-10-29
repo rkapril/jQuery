@@ -57,9 +57,9 @@ $("h1").on("mouseover", function () {
 ```
 ## Before
 ```
-$("h1").before("<button>New</button>");
+$("h1").before("<button>Before</button>");
 ```
 ## After
 ```
-$("h1").after("<button>Before</button>");
+$("h1").after("<button>After</button>");
 ```
