@@ -43,6 +43,10 @@ $("button").on("click", function () {
     $("h1").hide();
   });
 
+$("button").on("click", function () {
+    $("h1").show();
+  });
+
 $("input").keypress(function (event) {
     console.log(event.key);
   });
