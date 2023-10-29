@@ -47,6 +47,10 @@ $("button").on("click", function () {
     $("h1").show();
   });
 
+$("button").on("click", function () {
+    $("h1").toggle();
+  });
+
 $("input").keypress(function (event) {
     console.log(event.key);
   });
