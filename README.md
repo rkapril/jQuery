@@ -1,5 +1,5 @@
 # jQuery
-![image](https://github.com/rkapril/jQuery/assets/61505106/d396e273-71ef-4160-8e0c-7db0c4e0dd16)
+![image](https://github.com/rkapril/jQuery/assets/61505106/13813307-82d4-49cf-9ca9-3c289c65d7ea)
 
 ```
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
